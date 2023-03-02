@@ -8,7 +8,7 @@ Take features from [gitupdate](https://github.com/nikitavoloboev/gitupdate), [Gi
 
 ```bash
 bun i
-bun main.ts
+bun index.ts
 ```
 
 ### Thanks
